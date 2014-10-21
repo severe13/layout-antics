@@ -1,3 +1,2 @@
 Layout Antics project with Skeleton.css layout. 
 
-
